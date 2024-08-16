@@ -1,3 +1,5 @@
+![logo](./logo.gif)
+
 ![header](./github-header-image.png)
 
 
