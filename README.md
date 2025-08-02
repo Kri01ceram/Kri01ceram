@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I am krishna singh</h1>
 <h3 align="center">Fullstack developer and ML data scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kri01ceram&label=Profile%20views&color=0e75b6&style=flat" alt="kri01ceram" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kri01ceram" alt="kri01ceram" /></a> </p>
 
