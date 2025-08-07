@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kri01ceram&show_icons=true&locale=en" alt="kri01ceram" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kri01ceram&" alt="kri01ceram" /></p>
+
