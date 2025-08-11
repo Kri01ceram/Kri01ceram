@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Movie booking project**
 
-- 🌱 I’m currently learning **OPEN CV and DBMS**
+- 🌱 I’m currently learning **OPEN CV , DBMS and EXCEL**
 
 - 💬 Ask me about **Anything you like to or you feel stuck with**
 
