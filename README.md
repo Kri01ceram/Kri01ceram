@@ -96,8 +96,8 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 **5⭐ in Problem Solving** @ HackerRank  
-- 💡 Solved **200+ DSA problems** @ LeetCode  
+- 🥇 **1250+ Rating** @ Codeforces  
+- 💡 Solved *300+ DSA problems** @ LeetCode  
 - 🎯 Active **Open Source Contributor**  
 - 🏅 Consistently learning & building **full-stack + ML projects**  
 
