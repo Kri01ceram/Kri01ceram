@@ -88,6 +88,21 @@
 
 ---
 
+### 🚀 Featured Projects
+- 🎬 [**Movie Booking System**](https://github.com/kri01ceram/movie-booking) – A full-stack MERN app for booking movies.  
+- 🧠 [**ML Projects Collection**](https://github.com/kri01ceram/ml-projects) – A repository of machine learning & AI experiments.  
+- ⚡ [**Portfolio Website**](https://github.com/kri01ceram/portfolio) – Personal portfolio built with Next.js & TailwindCSS.  
+
+---
+
+### 🏆 Achievements
+- 🥇 **5⭐ in Problem Solving** @ HackerRank  
+- 💡 Solved **200+ DSA problems** @ LeetCode  
+- 🎯 Active **Open Source Contributor**  
+- 🏅 Consistently learning & building **full-stack + ML projects**  
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kri01ceram&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
