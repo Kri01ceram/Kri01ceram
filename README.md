@@ -116,36 +116,9 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" />
 </p>
 
-> Prefer a different style? Replace the filename with one of:
-> `profile-green-animate.svg`, `profile-green.svg`, `profile-season-animate.svg`, `profile-season.svg`, `profile-south-season-animate.svg`, `profile-south-season.svg`, `profile-night-view.svg`, `profile-night-green.svg`, `profile-night-rainbow.svg`, `profile-gitblock.svg`.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kri01ceram&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri01ceram&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kri01ceram&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
-</p>
-
----
-
-#### ℹ️ Notes
-- GitHub READMEs don’t run JavaScript or custom CSS; use SVG/Markdown widgets like above.
-- Keep it lean for faster load times (avoid huge images).
 
 <p align="center">Made with ❤️ by Krishna Singh</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kri01ceram&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri01ceram&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kri01ceram&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
-</p>
 
