@@ -32,7 +32,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Movie Booking Project**
-- 🌱 I’m learning **OpenCV, DBMS, and Excel**
+- 🌱 I’m learning **Generative AI , Agentic AI**
 - 💬 Ask me about **Full-Stack Development, Problem Solving & ML**
 - 📫 Reach me at **0.krishna1120@gmail.com**
 - ⚡ Fun fact: **I don’t have a hobby (yet 😅)**
@@ -98,7 +98,7 @@
 ### 🚀 Featured Projects
 - 🎬 <a href="https://github.com/kri01ceram/movie-booking"><b>Movie Booking System</b></a> – A full-stack MERN app for booking movies.  
 - 🧠 <a href="https://github.com/kri01ceram/ml-projects"><b>ML Projects Collection</b></a> – Machine learning & AI experiments.  
-- ⚡ <a href="https://github.com/kri01ceram/portfolio"><b>Portfolio Website</b></a> – Next.js & TailwindCSS personal portfolio.  
+- ⚡ <a href="https://github.com/kri01ceram/myportfolio"><b>Portfolio Website</b></a> – Next.js & TailwindCSS personal portfolio.  
 
 ---
 
