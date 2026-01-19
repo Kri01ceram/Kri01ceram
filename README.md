@@ -15,7 +15,7 @@ Actively deepening expertise in **Generative AI, agent-based systems, and modern
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/kri01ceram/kri01ceram/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/kri01ceram/kri01ceram/main/profile-3d-contrib/profile-green.svg" width="100%" />
 
 </td>
 
