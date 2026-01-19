@@ -1,26 +1,32 @@
-<!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">
-  Krishna Singh
-</h1>
+<!-- ===================== HERO GRID ===================== -->
+<table align="center">
+<tr>
+<td align="center" width="100%">
 
-<h3 align="center">
-  Full-Stack JavaScript Engineer • AI & Data Systems
-</h3>
+<h2>Krishna Singh</h2>
+<b>Full-Stack JavaScript Engineer • AI & Data Systems</b><br/><br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+scalable+web+systems;Advanced+JavaScript+%7C+React+%7C+Node.js;Exploring+Generative+AI+and+Agentic+Workflows;Code+with+clarity%2C+performance%2C+and+intent" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+scalable+web+systems;Advanced+JavaScript+%7C+React+%7C+Node.js;Exploring+Generative+AI+and+Agentic+Workflows;Code+with+clarity%2C+performance%2C+and+intent" />
 
-<p align="center">
-  <a href="https://github.com/kri01ceram?tab=followers">
-    <img src="https://img.shields.io/github/followers/kri01ceram?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kri01ceram&style=for-the-badge&label=Profile+Views" />
-</p>
+<br/><br/>
+
+<a href="https://github.com/kri01ceram?tab=followers">
+  <img src="https://img.shields.io/github/followers/kri01ceram?label=Followers&style=flat" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=kri01ceram&label=Profile+Views&style=flat" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ===================== EXECUTIVE SUMMARY ===================== -->
+<!-- ===================== SUMMARY + SKILLS GRID ===================== -->
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 ## Professional Summary
 
 Full-stack JavaScript engineer with strong foundations in **computer science, data structures, and system design**.  
@@ -28,20 +34,26 @@ Experienced in building **production-ready MERN and Next.js applications**, inte
 
 Actively deepening expertise in **Generative AI, agent-based systems, and modern frontend architectures**.
 
----
+</td>
 
-<!-- ===================== CORE SKILLS ===================== -->
-## Technical Competencies
+<td width="50%" valign="top">
 
-### 🧠 Programming & Core CS
+## 🧠 Programming & Core CS
+
 - Advanced **JavaScript (ES6+)**, TypeScript (working proficiency)
-- Data Structures & Algorithms (300+ problems solved)
+- Data Structures & Algorithms (**300+ problems solved**)
 - Asynchronous programming, event loop, memory model
 - RESTful APIs, authentication flows, role-based access
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-### ⚡ Tech Stack (Animated)
+<!-- ===================== TECH STACK GRID ===================== -->
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,redux,tailwind&perline=8" />
@@ -51,13 +63,18 @@ Actively deepening expertise in **Generative AI, agent-based systems, and modern
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,python,tensorflow,opencv,git,figma&perline=8" />
 </p>
 
-> **Focus Areas:**  
-> Frontend performance • API design • State management • Scalable UI systems • AI-assisted applications
+<b>Focus Areas:</b>  
+Frontend performance • API design • State management • Scalable UI systems • AI-assisted applications
 
 ---
 
-<!-- ===================== EXPERIENCE / PROJECTS ===================== -->
+<!-- ===================== PROJECTS GRID ===================== -->
 ## Selected Projects
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
 
 ### 🎬 Movie Booking System (MERN)
 **Full-stack production application**
@@ -68,7 +85,9 @@ Actively deepening expertise in **Generative AI, agent-based systems, and modern
 
 🔗 https://github.com/kri01ceram/movie-booking
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ### 🧠 Machine Learning & AI Projects
 **Applied ML and computer vision**
@@ -78,7 +97,9 @@ Actively deepening expertise in **Generative AI, agent-based systems, and modern
 
 🔗 https://github.com/kri01ceram/ml-projects
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ### 🌐 Portfolio Website
 **Modern developer portfolio**
@@ -88,9 +109,19 @@ Actively deepening expertise in **Generative AI, agent-based systems, and modern
 
 🔗 https://github.com/kri01ceram/myportfolio
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
+<!-- ===================== ACHIEVEMENTS + LINKS GRID ===================== -->
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 ## Achievements & Metrics
 
 - **1250+ Codeforces rating**
@@ -98,33 +129,42 @@ Actively deepening expertise in **Generative AI, agent-based systems, and modern
 - Active open-source contributor
 - Consistent delivery of full-stack & AI projects
 
----
+</td>
 
-<!-- ===================== CONNECT ===================== -->
+<td width="50%" valign="top">
+
 ## Professional Links
 
-<p align="left">
-  <a href="https://linkedin.com/in/krishna-singh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://dev.to/kri01ceram">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto" />
-  </a>
-  <a href="https://www.leetcode.com/0_krishna_01">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://www.hackerrank.com/0_krishna1120">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/krishna-singh">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
+</a>
+<a href="https://dev.to/kri01ceram">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto" />
+</a>
+<a href="https://www.leetcode.com/0_krishna_01">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode" />
+</a>
+<a href="https://www.hackerrank.com/0_krishna1120">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank" />
+</a>
 
-📫 **Email:** 0.krishna1120@gmail.com
+<br/><br/>
+📫 <b>Email:</b> 0.krishna1120@gmail.com
+
+</td>
+
+</tr>
+</table>
 
 ---
 
+<!-- ===================== CONTRIBUTIONS ===================== -->
 ## 🧊 Contributions
+
 <p align="center">
   <!-- This file is generated by the workflow below -->
+</p>
+
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" />
 </p>
 
