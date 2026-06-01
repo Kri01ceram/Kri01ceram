@@ -28,7 +28,7 @@ Actively deepening expertise in **Generative AI, agent-based systems, and modern
   <a href="https://dev.to/kri01ceram">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto" />
   </a>
-  <a href="https://www.leetcode.com/0_krishna_01">
+  <a href="https://www.pornhub.com/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://www.hackerrank.com/0_krishna1120">
